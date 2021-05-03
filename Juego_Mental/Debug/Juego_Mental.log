@@ -1,0 +1,8 @@
+﻿  FmJuego.cpp
+d:\proyectos\consoleapplication8\juego_mental\FmJuego.h(296): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+d:\proyectos\consoleapplication8\juego_mental\FmJuego.h(296): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  FmJuego.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Juego_Mental.vcxproj -> D:\Proyectos\ConsoleApplication8\Debug\Juego_Mental.exe
+  Juego_Mental.vcxproj -> D:\Proyectos\ConsoleApplication8\Debug\Juego_Mental.pdb (Partial PDB)

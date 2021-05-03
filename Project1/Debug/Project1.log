@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\proyectos\consoleapplication8\project1\main.cpp(22): warning C4715: 'teclaspulsadas': not all control paths return a value
+  main.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+main.obj : error LNK2028: unresolved token (0A000546) "extern "C" short __stdcall GetAsyncKeyState(int)" (?GetAsyncKeyState@@$$J14YGFH@Z) referenced in function "int __cdecl main(void)" (?main@@$$HYAHXZ)
+main.obj : error LNK2019: unresolved external symbol "extern "C" short __stdcall GetAsyncKeyState(int)" (?GetAsyncKeyState@@$$J14YGFH@Z) referenced in function "int __cdecl main(void)" (?main@@$$HYAHXZ)
+D:\Proyectos\ConsoleApplication8\Debug\Project1.exe : fatal error LNK1120: 2 unresolved externals
